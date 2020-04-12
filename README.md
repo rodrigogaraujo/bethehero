@@ -1,6 +1,6 @@
 # BeTheHero
 
-Application developed at Rocketseat OminiStack week - Backend with NodeJs, frontend with React
+Application developed at Rocketseat OminiStack week - Backend with NodeJs, frontend with React and mobile with React Native
 
 # Install
     git clone https://github.com/rodrigogaraujo/betheheroback.git
@@ -12,13 +12,13 @@ Application developed at Rocketseat OminiStack week - Backend with NodeJs, front
     Cors
     KnexJS + SQLITE
     Nodemon
-    
     React
     React DOM
     React Icons
     React Router DOM
     React Scripts
     Axios
+    React Native
     
 
 # Contact
